@@ -1,0 +1,1 @@
+ /home/yrsn/mobile/simplecitas/.dart_tool/flutter_build/6429c13de7e3f7712090ab150182fabc/dart_build_result.json: 

@@ -1,0 +1,1 @@
+ /home/yrsn/mobile/simplecitas/.dart_tool/flutter_build/c05e50f29d1ddb9d853b069d8324ebf5/native_assets.json: 
